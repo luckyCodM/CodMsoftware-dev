@@ -1,7 +1,7 @@
 <?php include 'app/header.php'; ?>
 <section class="home" style="background-image: url(assets/img/banner/herontower2_large.webp);">
 </section>
-<!-- <section class="bg-light p-5">
+<section class="bg-light p-5">
   <div class="row">
     <div class="col-lg-6">
       <div class="M_video-block">
@@ -21,16 +21,8 @@
 
       </div>
     </div>
-</section> -->
+</section>
 
-<!-- <section class="p-5 bg-light">
-<div class="container">
-  <div class="row">
-  <div class="counter col-lg-4" data-countto="150" data-duration="8000">0</div>
-  <div class="counter col-lg-4" data-countto="85" data-duration="20000">0</div>
-  <div class="counter col-lg-4" data-countto="2200" data-duration="2000">0</div>
-  </div>
-</div>
-</section> -->
+
 
 <?php include 'app/footer.php'; ?>
