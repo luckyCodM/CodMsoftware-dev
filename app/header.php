@@ -14,8 +14,34 @@
 </head>
 <body>
 <header>
-<nav>
+<nav class="nav">
+	<div class="container">
+		<div class="logo">
+			<a href="#"><img src="assets/img/logo-change-color.png" alt="" style="width:120px;"></a>
+		</div>
+		<div id="mainListDiv" class="main_list">
+			<ul class="navlinks">
+            <li><a href="#!">Home</a></li>
+				<li><a href="#!">About</a></li>
+				<li><a href="#!">Company</a>
+			<!-- <ul>
+				<li>Aout Us</li>
+				<li>Career</li>
+			</ul> -->
+			</li>
+				<li><a href="#!">Products</a></li>
+				<li><a href="#!">Services</a></li>
+				<li><a href="#!">Contact Us</a></li>
+			</ul>
+		</div>
+		<span class="navTrigger">
+			<i></i>
+			<i></i>
+			<i></i>
+		</span>
+	</div>
 </nav>
+
 </header>
 
 
