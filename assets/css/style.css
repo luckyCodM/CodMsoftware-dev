@@ -13,14 +13,14 @@
 	height: 65px;
 	position: fixed;
 	line-height: 65px;
-	text-align: center;
+	text-align: center;	
 }
 
 .nav div.logo {
 	float: left;
 	width: auto;
 	height: auto;
-	padding-left: 3rem;
+	padding-left: 3rem; 
 }
 
 .nav div.logo a {
@@ -330,7 +330,7 @@
 
 .affix {
 	padding: 0;
-	background-color: #fff;
+	background-color: #2294c5;
 }
 
 .M_video-block {
