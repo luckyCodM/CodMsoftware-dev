@@ -423,12 +423,3 @@
 	vertical-align: middle;
   }
   
-  .certification {
-		height: auto;
-		width: 100%;
-		position:absolute;
-		align-items: center;
-		bottom: -500px;
-		
-	}
-  
