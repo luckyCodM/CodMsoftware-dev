@@ -21,6 +21,21 @@
 
       </div>
     </div>
+
+<Bottom> 
+        <div class = "Certification" style="background:radial-gradient(#2294c5 ,#eef3f5);">
+        <tr><td>
+        <img src="https://codmsoftware.com/assect/upload/footer/PD1.webp"  style="width:140px;height: 120px;"> 
+        <img src="https://codmsoftware.com/assect/upload/footer/PD2.webp" alt="" style="width:140px;height: 120px;">
+        <img src="https://codmsoftware.com/assect/upload/footer/CPQSpecialist.webp" alt="" style="width:140px;height: 120px;">
+        <img src="https://codmsoftware.com/assect/upload/footer/B2CSolutionArchitect.webp"alt="" style="width:140px;height: 120px;">
+        <img src="https://codmsoftware.com/assect/upload/footer/applicationArchitect.webp"alt="" style="width:140px;height: 120px;">
+        <img src="https://codmsoftware.com/assect/upload/footer/omniStudioDeveloper.webp"alt="" style="width:140px;height: 120px;">
+        <img src="https://codmsoftware.com/assect/upload/footer/omniStudioConsultant.webp"alt="" style="width:140px;height: 120px;">
+        <img src="https://codmsoftware.com/assect/upload/footer/platformAppBuilder.webp"alt="" style="width:140px;height: 120px;">
+</td></tr>
+        </div>
+    </Bottom>
 </section>
 
 
