@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
         playButton.style.display = 'none';
 		thumbnailImage.style.display = 'none';
         youtubeIframe.src = "https://www.youtube.com/embed/_hOnGRvtIms?rel=0&amp;autoplay=1";
+        
     });
 });
 </script>

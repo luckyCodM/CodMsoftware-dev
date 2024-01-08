@@ -406,6 +406,14 @@
 	transform: rotate(-90deg) scale(0.95);
   }
   
+  .content {
+	height: 200px;
+	width: 200px;
+	border: 2px solid wheat;
+	position: absolute;
+	bottom: 500px;
+	color: #00e676;
+  }
 
   .counter {
 	font-size: 50px;
@@ -414,4 +422,13 @@
 	border-radius: 50%;
 	vertical-align: middle;
   }
+  
+  .certification {
+		height: auto;
+		width: 100%;
+		position:absolute;
+		align-items: center;
+		bottom: -500px;
+		
+	}
   
